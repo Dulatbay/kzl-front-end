@@ -9,16 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/cssinjs": "^1.22.0",
+    "@ant-design/icons": "^5.5.1",
+    "@ant-design/nextjs-registry": "^1.0.2",
+    "antd": "^5.22.2",
+    "framer-motion": "^11.11.17",
+    "next": "14.2.18",
+    "next-intl": "^3.25.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.18"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   }
 }

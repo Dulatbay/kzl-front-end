@@ -1,0 +1,164 @@
+{
+  "header": {
+    "learn_basic": "Learn basic",
+    "learn_specified": "Learn specified",
+    "quizzes": "Quizzes",
+    "translator": "Translator",
+    "archive": "Archive",
+    "kaz_test": "KazTest",
+    "store": "Store",
+    "streak": "Streak"
+  },
+  "home": {
+    "new_user_title": "Try to determine your level!",
+    "new_user_button": "Take a Test",
+    "header_title": "Makhambet Utemisov - 220 years",
+    "sections": {
+      "title1": "World's First Solution",
+      "description1": "We are the first solution in the world to address the problem of the Kazakh language. We use gamification and interactivity to engage users, making language learning enjoyable and effective.",
+      "title2": "Comprehensive Learning",
+      "description2": "We teach the Kazakh language from the basics to proficiency. All topics are clearly divided, and we utilize a system similar to Duolingo, ensuring an interactive and structured learning experience.",
+      "title3": "Technical Fields",
+      "description3": "Beyond basic language, we also cover technical vocabulary and concepts in fields such as IT, Math, Biology, and more. This helps users expand their language skills in specialized areas.",
+      "title4": "KazTest Preparation",
+      "description4": "We offer dedicated resources and mock tests to help users prepare effectively for the KazTest, a recognized certification of Kazakh language proficiency.",
+      "title5": "AI-Based Translator",
+      "description5": "Our platform features an AI-based online translator, trained with specialized Kazakh language datasets to provide high-quality translations and assist learners in understanding context.",
+      "title6": "Discussion Forums",
+      "description6": "We have forums where users can discuss various aspects of the Kazakh language, ask questions, and interact with other learners to further enhance their understanding.",
+      "title7": "Leaderboard and Competitions",
+      "description7": "Engage in healthy competition with other users! We have daily challenges and a leaderboard where learners can track their progress and compete to be the best.",
+      "title8": "Event Information",
+      "description8": "Stay informed about upcoming cultural and educational events. For instance, learn about the 'Makhambet Utemisov - 220 years' event, where you can explore his heroic deeds and literary contributions.",
+      "title9": "Media Archive",
+      "description9": "We offer an extensive archive of books, videos, and podcasts, all freely accessible to help you immerse yourself in the Kazakh language and culture."
+    }
+  },
+  "translate": {
+    "title": "Translate and explain any word",
+    "placeholder": "Input translate text...",
+    "search_button": "Search",
+    "result_not_found": "Not found",
+    "error_message": "Something went wrong while processing your request."
+  },
+  "test": {
+    "test_complete": "Test Complete",
+    "your_result": "Your result: {score} out of {total}",
+    "your_answers": "Your answers:",
+    "your_answer": "Your answer:",
+    "your_level": "Your level: {level}",
+    "finish": "Finish",
+    "next": "Next",
+    "correct_answer": "Correct answer:",
+    "question_title": "{index}. {question}"
+  },
+  "store": {
+    "title": "KzL Store",
+    "description": "Shop in our store or redeem our products for free by using KzLCoins.",
+    "buttons": {
+      "redeem": "Redeem",
+      "earn": "Earn KzLCoin",
+      "premium": "Premium",
+      "orders": "View Orders"
+    },
+    "products": {
+      "price_suffix": "coins",
+      "1": {
+        "id": 1,
+        "title": "Hoodie EST.1465 Sky Blue",
+        "description": "A comfortable sky blue hoodie with EST.1465 design.",
+        "price": "2200",
+        "image": "https://test.qazaqrepublic.com/uploads/thumbs/fw23-web-makets-sweater-blue-4c50f57538-518e361d2626f964419164d3472e4858.jpeg"
+      },
+      "2": {
+        "id": 2,
+        "title": "Jeans KEÑ Navy",
+        "description": "Stylish navy jeans with a relaxed fit.",
+        "price": "2300",
+        "image": "https://test.qazaqrepublic.com/uploads/thumbs/fw23-web-makets-ken-dark-blue-d50e58b85c-df8261a6b32dc902a9ced2bb97788675.jpeg"
+      },
+      "3": {
+        "id": 3,
+        "title": "Velvet Cap WRQ Green",
+        "description": "A trendy green velvet cap with WRQ branding.",
+        "price": "1000",
+        "image": "https://test.qazaqrepublic.com/uploads/thumbs/fw23-web-makets-velvet-green-1fb5310193-518e361d2626f964419164d3472e4858.jpeg"
+      },
+      "4": {
+        "id": 4,
+        "title": "Sweatshirt Qazaq Republic Navy",
+        "description": "Navy sweatshirt featuring the Qazaq Republic logo.",
+        "price": "1800",
+        "image": "https://test.qazaqrepublic.com/uploads/thumbs/fw23-web-makets-sw-qrl-dark-blue-bd3ce19d49-518e361d2626f964419164d3472e4858.jpeg"
+      },
+      "5": {
+        "id": 5,
+        "title": "Pants Wide Khaki",
+        "description": "Wide-legged khaki pants for a comfortable fit.",
+        "price": "2500",
+        "image": "https://test.qazaqrepublic.com/uploads/thumbs/90s-pants-white-2-9cf6186362-3986048ac7f20f65da69e2f7c00ee850.jpeg"
+      },
+      "6": {
+        "id": 6,
+        "title": "Bag WRQ Blue",
+        "description": "A spacious blue bag with WRQ branding.",
+        "price": "900",
+        "image": "https://test.qazaqrepublic.com/uploads/thumbs/fw23-web-makets-somke-blue-d8a02fe1ed-518e361d2626f964419164d3472e4858.jpeg"
+      }
+    }
+  },
+  "learn": {
+    "head": {
+      "title": "KzH Learning",
+      "description": "Learn the Kazakh language Module by Module and Topic by Topic."
+    },
+    "modules": {
+      "header": "Modules",
+      "questions": "{count} questions",
+      "duration": "{hours} hours",
+      "users": "{count} users",
+      "difficulty": "Difficulty:",
+      "start": "Start",
+      "title": "MODULE {id}",
+      "level_active": "Active Level",
+      "level_inactive": "Inactive Level"
+    }
+  },
+  "quizzes": {
+    "title": "Quizzes",
+    "topics": "Topics",
+    "difficulty": "Difficulty",
+    "status": "Status",
+    "pick_random": "Pick Random",
+    "search_placeholder": "Search",
+    "questions": "Questions: {count}",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "solved": "Solved",
+    "not_solved": "Not Solved",
+    "preview": "Preview"
+  },
+  "profile": {
+    "share_profile": "Share profile",
+    "personal_info": "Personal Info",
+    "full_name": "Full name",
+    "birthday": "Birthday",
+    "mobile": "Mobile",
+    "email": "Email",
+    "location": "Location",
+    "location_value": "Kaskelen, KZ",
+    "daily_activity": "Daily Activity",
+    "minutes_spent_daily": "Minutes spent daily",
+    "average_study_time": "Average study time (minutes)",
+    "quizzes_completed": "Quizzes completed",
+    "kazakh_topics_progress": "Kazakh Topics Progress",
+    "completed_topics": "Completed topics",
+    "certified": "Certificated",
+    "achievements": "Achievements",
+    "current_level": "Current Level",
+    "official_certification": "Official Certification",
+    "test_date": "Test Date",
+    "job_title": "Senior Developer at Tilde"
+  }
+}

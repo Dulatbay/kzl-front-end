@@ -1,10 +1,10 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, {useState} from 'react';
 import Search from "antd/lib/input/Search";
-import { Button, ConfigProvider } from "antd";
-import { darkTheme } from "@/app/theme";
-import { useTranslations } from 'next-intl';
+import {Button, ConfigProvider} from "antd";
+import {darkTheme} from "@/app/theme";
+import {useTranslations} from 'next-intl';
 
 const Page = () => {
     const t = useTranslations('translate');
@@ -17,12 +17,10 @@ const Page = () => {
             setResult('');
 
             // Send request to server and handle streaming response
-            const response = await fetch('https://kzl-translator-back-qtlgjzikw-akhans-projects-eb307fa5.vercel.app/translate', {
-                method: 'POST',
+            const response = await fetch(`https://kzl-translator-back-qtlgjzikw-akhans-projects-eb307fa5.vercel.app/translate?msg=${value}`, {
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify({ msg: value }),
             });
 
             if (!response.body) {

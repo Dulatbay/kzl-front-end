@@ -17,7 +17,7 @@ const Page = () => {
             setResult('');
 
             // Send request to server and handle streaming response
-            const response = await fetch(`https://kzl-translator-back-qtlgjzikw-akhans-projects-eb307fa5.vercel.app/translate?msg=${value}`, {
+            const response = await fetch(`kzl-translator-back.vercel.app/translate?msg=${value}`, {
                 headers: {
                     'Content-Type': 'application/json',
                 },

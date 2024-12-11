@@ -145,7 +145,7 @@ export default function TestPage() {
     };
 
     return (
-        <div className="flex flex-col items-center justify-center h-screen p-4">
+        <div className="flex flex-col items-center justify-center p-4">
             {isTestComplete ? (
                 <div className="text-center w-full max-w-3xl">
                     <h1 className="text-3xl font-bold mb-6">{t('test_complete')}</h1>

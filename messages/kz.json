@@ -7,7 +7,9 @@
     "archive": "Мұрағат",
     "kaz_test": "ҚазТест",
     "store": "Дүкен",
-    "streak": "Серия"
+    "streak": "Серия",
+    "leader_board": "Жүлделер кестесі",
+    "discuss": "Форум"
   },
   "home": {
     "new_user_title": "Деңгейіңізді анықтап көріңіз!",

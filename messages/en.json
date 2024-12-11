@@ -7,7 +7,9 @@
     "archive": "Archive",
     "kaz_test": "KazTest",
     "store": "Store",
-    "streak": "Streak"
+    "streak": "Streak",
+    "leader_board": "Leaderboard",
+    "discuss": "Forum"
   },
   "home": {
     "new_user_title": "Try to determine your level!",

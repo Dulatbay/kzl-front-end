@@ -76,6 +76,8 @@ export default function Header() {
                     <Link  href="/archive">{t("header.archive")}</Link >
                     <Link  href="/kaz-test">{t("header.kaz_test")}</Link >
                     <Link  href="/store">{t("header.store")}</Link >
+                    <Link  href="/leader-board">{t("header.leader_board")}</Link >
+                    <Link  href="/discuss">{t("header.discuss")}</Link >
                 </div>
                 <div className="hidden sm:flex gap-6 items-center">
                     <div id="streak" className="flex gap-2">

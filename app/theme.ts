@@ -1,5 +1,6 @@
 import {theme, ThemeConfig} from 'antd';
 
+
 export const darkTheme: ThemeConfig = {
     token: {
         colorPrimary: '#5348F2',
